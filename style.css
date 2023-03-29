@@ -1,0 +1,87 @@
+body{
+    background: url(./images\ 5.jpg);
+    background-size: cover;
+}
+.title{
+    color: rgb(238, 255, 0);
+    margin: 100px auto;
+    text-transform: uppercase;
+}
+.entrance {
+    width: 900px;
+    height: 250px;
+    background-color: rgba(187, 113, 17, 0.63);
+    margin: 0 auto;
+    border-radius: 20px;
+}
+.entrance-input {
+    text-align: center;
+    margin:20px 100px 0px 280px;
+    padding: 10px 90px;
+    border-radius: 5px;
+    background-color: rgb(29, 121, 6);
+}
+.entrance-text{
+    width: 120px;
+    height: 40px;
+    background-color: aqua;
+    border-radius: 10px;
+    display: inline-table;
+    border-spacing: table;
+    margin: 40px 30px 15px 50px;
+    padding: 0 auto;
+    border: 0px;
+    cursor: pointer;
+}
+.entrance-text:nth-child(2){
+    background-color: darkgreen;
+}
+.test{
+    width: 900px;
+    height: 1100px;
+    background-color: rgba(187, 113, 17, 0.63);
+    margin: 0 auto;
+    border-radius: 20px;
+    display: block;
+    font-size: 18px;
+}
+.test-input{
+    width: 800px;
+    height: 200px;
+    background-color: rgb(131, 88, 172);
+    margin: 20px 0px 0px 40px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+p{
+    font-weight: 600;
+}
+.nationality{
+    width: 900px;
+    height: 1100px;
+    background-color: rgba(187, 113, 17, 0.63);
+    margin: 0 auto;
+    border-radius: 20px;
+    font-size: 18px;
+}
+.nationality-countries{
+    padding: 30px 35px;
+}
+.nationality-countries-file{
+    display: block;
+    margin: 0px 30px;
+}
+.nationality-countries-div{
+    padding: 10px;
+}
+.coment{
+    display: block;
+    margin: 0px 30px;
+}
+.image{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    padding: 5px;
+    border-radius: 30px;
+}
